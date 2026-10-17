@@ -38,8 +38,8 @@ This project performs basic bioinformatics analysis of the human TP53 reference 
 ## Project Structure
 human-tp53-mrna-analysis/
 - README.md
-- mrna_analyzer.py
-- mrna_analyzer.ipynb
+- dna_analyzer.py
+- dna_analyzer.ipynb
 - requirements.txt
 - data/
     - human_tp53_sequence.fasta
