@@ -1,10 +1,10 @@
-# Human TP53 DNA Sequence Analysis Using Python
+# Human TP53 mRNA Sequence Analysis Using Python
 
 ## Project Overview
 This project performs basic bioinformatics analysis of the human TP53 reference mRNA sequence using Python and Biopython. It analyzes nucleotide composition and calculates sequence length, GC content, and AT content.
 
 ## Objectives
-- Retrieve a real TP53 reference sequence from NCBI.
+- Retrieve a real TP53 mRNA reference sequence from NCBI.
 - Read FASTA files using Biopython.
 - Validate DNA nucleotide characters.
 - Calculate sequence length and nucleotide counts.
@@ -36,10 +36,10 @@ This project performs basic bioinformatics analysis of the human TP53 reference 
 8. Display and document the results.
 
 ## Project Structure
-human-tp53-dna-analysis/
+human-tp53-mrna-analysis/
 - README.md
-- dna_analyzer.py
-- dna_analyzer.ipynb
+- mrna_analyzer.py
+- mrna_analyzer.ipynb
 - requirements.txt
 - data/
     - human_tp53_sequence.fasta
