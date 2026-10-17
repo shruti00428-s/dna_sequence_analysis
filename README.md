@@ -6,7 +6,7 @@ This project performs basic bioinformatics analysis of the human TP53 reference 
 ## Objectives
 - Retrieve a real TP53 reference sequence from NCBI.
 - Read FASTA files using Biopython.
-- Validate DNA nucleotide characters.
+- Validate RNA nucleotide characters.
 - Calculate sequence length and nucleotide counts.
 - Determine GC and AT percentages.
 - Run the analysis in VS Code and Google Colab.
@@ -42,7 +42,7 @@ human-tp53-dna-analysis/
 - dna_analyzer.ipynb
 - requirements.txt
 - data/
-    - tp53_mrna.fasta
+    - human_tp53_sequence.fasta
 - results/
 
 
